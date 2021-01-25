@@ -1,1 +1,6 @@
-# j6ltexx_vendor_Q
+```
+AP : J600FNXXS9CTI2
+CSC : J600FNOXM9CTI2 (ITV)
+Android : Q(Android 10)
+Build Date : 20200909095748
+```
